@@ -86,7 +86,7 @@
                 <li>PHP</li>
                 <li>MySQL</li>
                 <li>PDO (PHP Data Objects)</li>
-                <li>Google Maps API</li>
+                <li>Google Maps Integration</li>
                 <li>Session Management</li>
             </ul>
             <p>
